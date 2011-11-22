@@ -1,3 +1,19 @@
+
+///=============================================================================
+///
+/// \file           ILogic.hpp
+/// \class          ILogic
+///
+/// \date           Creation date:  28/12/2009
+/// \date           Latest update:  28/12/2009
+///
+/// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          An interface for the Logic module.
+///
+///=============================================================================
+
 // Include guard
 #ifndef ILOGIC_HPP_INCLUDED
 #define ILOGIC_HPP_INCLUDED

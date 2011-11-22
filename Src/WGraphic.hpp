@@ -1,3 +1,17 @@
+///=============================================================================
+///
+/// \file           WGraphic.hpp
+///
+/// \date           Creation date:  24/02/2009
+/// \date           Latest update:  08/08/2009
+///
+///	\author			Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Wrapper for Graphic module using Boost.
+///
+///=============================================================================
+
+
 // Include guard
 //#ifndef WGRAPHIC_HPP_INCLUDED
 //#define WGRAPHIC_HPP_INCLUDED

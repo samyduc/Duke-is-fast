@@ -8,6 +8,7 @@
 /// \date           Latest update:  08/08/2009
 ///
 /// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+/// \author         Samy Duc, nobunaga.duc@gmail.com
 ///
 /// \brief          Base class for all the Graphic module Behaviours.
 ///

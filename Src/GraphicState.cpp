@@ -1,4 +1,18 @@
 
+///=============================================================================
+///
+/// \file           GraphicState.cpp
+/// \class          GraphicState
+///
+/// \date           Creation date:  13/07/2009
+/// \date           Latest update:  08/08/2009
+///
+/// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Behaviour of the Graphic module when in Game state
+///
+///=============================================================================
 
 // Header of the class
 #include "GraphicState.hpp"

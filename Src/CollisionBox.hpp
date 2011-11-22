@@ -1,3 +1,18 @@
+///=============================================================================
+///
+/// \file           CollisionBox.cpp
+/// \class          CollisionBox
+///
+/// \date           Creation date:  24/02/2009
+/// \date           Latest update:  08/08/2009
+///
+///	\author			Samy Duc, nobunaga.duc@gmail.com
+///	\author			Valentin Radlo
+///
+/// \brief          Handle collusion on simple box.
+///
+///=============================================================================
+
 // Include guard
 #ifndef COLLISIONBOX_HPP_INCLUDED
 #define COLLISIONBOX_HPP_INCLUDED

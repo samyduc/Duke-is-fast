@@ -1,3 +1,14 @@
+///=============================================================================
+///
+/// \file           LogicEntity.hpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle internal logic entity state
+///
+///=============================================================================
+
 // Include guard
 #ifndef LOGICENTITY_HPP_INCLUDED
 #define LOGICENTITY_HPP_INCLUDED

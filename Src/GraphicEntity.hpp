@@ -1,3 +1,19 @@
+
+///=============================================================================
+///
+/// \file           GraphicEntity.hpp
+/// \class          GraphicEntity
+///
+/// \date           Creation date:  24/02/2009
+/// \date           Latest update:  08/08/2009
+///
+/// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+///	\author			Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle graphic entity, using SFML.
+///
+///=============================================================================
+
 // Include guard
 #ifndef GRAPHICENTITY_HPP_INCLUDED
 #define GRAPHICENTITY_HPP_INCLUDED

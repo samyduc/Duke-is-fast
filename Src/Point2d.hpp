@@ -1,3 +1,14 @@
+///=============================================================================
+///
+/// \file           Point2d.cpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Custom 2d space point
+///
+///=============================================================================
+
 // Include guard
 #ifndef POINT2D_HPP_INCLUDED
 #define POINT2D_HPP_INCLUDED

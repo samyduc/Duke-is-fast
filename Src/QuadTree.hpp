@@ -1,3 +1,14 @@
+///=============================================================================
+///
+/// \file           QuadTree.hpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Dynamic QuadTree
+///
+///=============================================================================
+
 // Include guard
 #ifndef QUADTREE_HPP_INCLUDED
 #define QUADTREE_HPP_INCLUDED

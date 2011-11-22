@@ -1,3 +1,13 @@
+///=============================================================================
+///
+/// \file           LogicState.hpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle internal logic state
+///
+///=============================================================================
 
 // Include guard
 #ifndef LOGICSTATE_HPP_INCLUDED

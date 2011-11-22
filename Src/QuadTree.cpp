@@ -1,5 +1,15 @@
-#include "QuadTree.hpp"
+///=============================================================================
+///
+/// \file           QuadTree.cpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Dynamic QuadTree
+///
+///=============================================================================
 
+#include "QuadTree.hpp"
 
 QuadTree::QuadTree(Point2d<float> position, Point2d<float> size, unsigned int depth, unsigned int maxDepth, unsigned int maxObjects, QuadTree* father)
 {

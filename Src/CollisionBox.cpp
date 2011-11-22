@@ -1,3 +1,18 @@
+///=============================================================================
+///
+/// \file           CollisionBox.cpp
+/// \class          CollisionBox
+///
+/// \date           Creation date:  24/02/2009
+/// \date           Latest update:  08/08/2009
+///
+///	\author			Samy Duc, nobunaga.duc@gmail.com
+///	\author			Valentin Radlo
+///
+/// \brief          Handle collusion on simple box.
+///
+///=============================================================================
+
 #include "CollisionBox.hpp"
 
 // used by CollisionBox

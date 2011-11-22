@@ -1,3 +1,18 @@
+///=============================================================================
+///
+/// \file           SceneNode.hpp
+/// \class          SceneNode
+///
+/// \date           Creation date:  24/02/2009
+/// \date           Latest update:  08/08/2009
+///
+/// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+///	\author			Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Scene Node.
+///
+///=============================================================================
+
 // Include guard
 #ifndef SCENENODE_HPP_INCLUDED
 #define SCENENODE_HPP_INCLUDED

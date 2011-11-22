@@ -1,3 +1,13 @@
+///=============================================================================
+///
+/// \file           LogicGameState.cpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle internal game logic state
+///
+///=============================================================================
 
 // Header of the class
 #include "LogicGameState.hpp"

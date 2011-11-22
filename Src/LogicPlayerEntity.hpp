@@ -1,3 +1,14 @@
+///=============================================================================
+///
+/// \file           LogicPlayerEntity.hpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle internal logic entity
+///
+///=============================================================================
+
 // Include guard
 #ifndef LOGICPLAYERENTITY_HPP_INCLUDED
 #define LOGICPLAYERENTITY_HPP_INCLUDED

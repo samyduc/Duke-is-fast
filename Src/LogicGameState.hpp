@@ -1,3 +1,14 @@
+///=============================================================================
+///
+/// \file           LogicGameState.hpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle internal game logic state
+///
+///=============================================================================
+
 
 // Include guard
 #ifndef LOGICGAMESTATE_HPP_INCLUDED

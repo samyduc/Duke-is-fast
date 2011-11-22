@@ -1,3 +1,17 @@
+///=============================================================================
+///
+/// \file           WInput.cpp
+///
+/// \date           Creation date:  09/08/2008
+/// \date           Latest update:  08/08/2009
+///
+/// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+///	\author			Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Python wrapper for input class.
+///
+///=============================================================================
+
 #ifndef WINPUT_HPP_INCLUDED
 #define WINPUT_HPP_INCLUDED
 

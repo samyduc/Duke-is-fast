@@ -1,4 +1,13 @@
-
+///=============================================================================
+///
+/// \file           LogicEntity.cpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle internal logic entity state
+///
+///=============================================================================
 
 #include "LogicEntity.hpp"
 

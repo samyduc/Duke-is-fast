@@ -1,3 +1,19 @@
+
+///=============================================================================
+///
+/// \file           InputState.cpp
+/// \class          InputState
+///
+/// \date           Creation date:  03/07/2009
+/// \date           Latest update:  08/08/2009
+///
+/// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Base class for all the Input module Behaviours (binding with SFML).
+///
+///=============================================================================
+
 #include "InputState.hpp"
 
 #define PATH_CONTROLS "./Res/Config/"

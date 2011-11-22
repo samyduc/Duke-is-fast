@@ -1,3 +1,18 @@
+//=============================================================================
+///
+/// \file           CLogic.cpp
+/// \class          CLogic
+///
+/// \date           Creation date:  28/12/2009
+/// \date           Latest update:  28/12/2009
+///
+/// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          An implementation of the CLogic module.
+///
+///=============================================================================
+
 // Header of the class
 #include "CLogic.hpp"
 //-----------------------------------------------------------------------------/

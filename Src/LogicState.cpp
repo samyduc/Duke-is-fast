@@ -1,3 +1,14 @@
+///=============================================================================
+///
+/// \file           LogicState.cpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle internal logic state
+///
+///=============================================================================
+
 #include "LogicState.hpp"
 
 #define PATH_CONTROLS "./Res/Config/"

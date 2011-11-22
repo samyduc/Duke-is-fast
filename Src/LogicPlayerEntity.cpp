@@ -1,4 +1,13 @@
-
+///=============================================================================
+///
+/// \file           LogicPlayerEntity.cpp
+///
+///
+/// \author         Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Handle internal logic entity
+///
+///=============================================================================
 
 #include "LogicPlayerEntity.hpp"
 #include "IInput.hpp"

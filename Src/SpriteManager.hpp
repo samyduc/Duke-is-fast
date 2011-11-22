@@ -1,3 +1,17 @@
+///=============================================================================
+///
+/// \file           SpriteManager.hpp
+/// \class          SpriteManager
+///
+/// \date           Creation date:  24/02/2009
+/// \date           Latest update:  08/08/2009
+///
+/// \author         Benjamin Rimet, benjamin.rimet@gmail.com
+///	\author			Samy Duc, nobunaga.duc@gmail.com
+///
+/// \brief          Manage sprite with animation, using SFML.
+///
+///=============================================================================
 
 // Include guard
 #ifndef SPRITEMANAGER_HPP_INCLUDED
