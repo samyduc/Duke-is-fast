@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Player Sprite''' -->
+<sprite>
+	<image href="player.png" scaling="1.f" />
+	
+	<action id="default">
+		<frame left="0" top="0" right="45" bottom="45" s_timer="1.f"/>
+	</action>
+	
+	<action id="move_forward">
+		<frame left="0" top="0" right="45" bottom="45" s_timer="0.25f"/>
+		<frame left="45" top="0" right="90" bottom="45" s_timer="0.1f"/>
+		<frame left="90" top="0" right="135" bottom="45" s_timer="0.1f"/>
+	</action>
+	
+	<action id="move_backward">
+		<frame left="0" top="0" right="45" bottom="45" s_timer="0.25f"/>
+		<frame left="90" top="0" right="135" bottom="45" s_timer="0.1f"/>
+		<frame left="45" top="0" right="90" bottom="45" s_timer="0.1f"/>
+	</action>
+	
+	<action id="move_straff_left">
+		<frame left="0" top="0" right="45" bottom="45" s_timer="0.25f"/>
+		<frame left="90" top="0" right="135" bottom="45" s_timer="0.1f"/>
+	</action>
+	
+	<action id="move_straff_right">
+		<frame left="0" top="0" right="45" bottom="45" s_timer="0.25f"/>
+		<frame left="45" top="0" right="90" bottom="45" s_timer="0.1f"/>
+	</action>
+	
+</sprite>

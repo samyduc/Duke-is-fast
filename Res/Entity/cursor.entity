@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Cursor Entity''' -->
+<entity>
+	<graphic>
+		<sprite href="cursor.sprite" />
+	</graphic>
+	<logic>
+		<collide state="no"/>
+	</logic>
+</entity>

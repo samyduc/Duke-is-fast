@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Player Entity''' -->
+<entity>
+	<graphic>
+		<collide state="yes"/>
+		<sprite href="player.sprite" />
+	</graphic>
+</entity>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ''prealpa Map''' -->
+<map>
+	<size x="800.f" y="600.f" />
+
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="50.f" y="0.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="50.f" y="90.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="50.f" y="180.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="50.f" y="270.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="50.f" y="360.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="50.f" y="450.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="50.f" y="530.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="50.f" y="620f" angle="0.f"/>
+	</props>
+	
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="750.f" y="0.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="750.f" y="90.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="750.f" y="180.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="750.f" y="270.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="750.f" y="360.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="750.f" y="450.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="750.f" y="530.f" angle="0.f"/>
+	</props>
+	<props>
+		<collide state="yes"/>
+		<sprite href="box.sprite" />
+		<position x="750.f" y="620f" angle="0.f"/>
+	</props>
+	
+	<entity>
+		<name value="player"/>
+		<position x="300.f" y="400.f" angle="0.f"/>
+		<action value="default"/>
+	</entity>
+	
+	
+</map>

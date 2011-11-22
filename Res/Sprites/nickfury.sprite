@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Nick Fury Sprite''' -->
+<sprite>
+	<image href="nickfury.png" scaling="1.f" />
+	
+	<action id="default">
+		<frame left="304" top="919" right="384" bottom="1019" s_timer="0.20f"/>
+	</action>
+	
+	<action id="move">
+		<frame left="304" top="919" right="384" bottom="1019" s_timer="0.20f"/>
+		<frame left="384" top="919" right="444" bottom="1019" s_timer="0.20f"/>
+		<frame left="444" top="919" right="516" bottom="1019" s_timer="0.20f"/>
+		<frame left="516" top="919" right="575" bottom="1019" s_timer="0.20f"/>
+	</action>
+</sprite>

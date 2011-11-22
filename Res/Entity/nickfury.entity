@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Nick Fury Entity''' -->
+<entity>
+	<graphic>
+		<sprite href="nickfury.sprite" />
+	</graphic>
+	<logic>
+		<collide state="yes"/>
+	</logic>
+</entity>

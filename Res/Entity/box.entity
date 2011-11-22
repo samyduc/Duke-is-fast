@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Box Entity''' -->
+<entity>
+	<graphic>
+		<sprite href="box.sprite" />
+	</graphic>
+	<logic>
+		<collide state="yes"/>
+	</logic>
+</entity>

@@ -1,0 +1,21 @@
+DUKE IS FAST
+============
+
+Description
+-----------
+
+Scriptable C++ 2D game engine with (full) python binding (using boost).
+
+This is also a nice demonstrator for the original AMO engine (with OGRE instead of SFML in this current release). 
+
+Author
+------
+
+Samy Duc aka nobunaga.duc@gmail.com
+
+Additional credits
+------------------
+
+For designing part of the engine with some C++ awsomeness.
+
+Benjamin Rimet aka benjamin.rimet@gmail.com

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Red Car''' -->
+<sprite>
+	<image href="redcar.png" scaling="1.f" />
+	
+	<action id="default">
+		<frame left="14" top="5" right="52" bottom="73" s_timer="2.f"/>
+	</action>
+	
+	<action id="move">
+		<frame left="14" top="5" right="42" bottom="73" s_timer="2.f"/>
+	</action>
+</sprite>

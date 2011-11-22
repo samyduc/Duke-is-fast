@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Red Car Entity''' -->
+<entity>
+	<graphic>
+		<sprite href="redcar.sprite" />
+	</graphic>
+	
+	<logic>
+		<hp value="30"/>
+		<armor value="10"/>
+		<velocity value="5.0f"/>
+		<collide state="yes"/>
+	</logic>
+</entity>

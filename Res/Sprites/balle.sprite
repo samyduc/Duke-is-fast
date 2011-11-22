@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''BalleSprite''' -->
+<sprite>
+	<image href="balle.png" scaling="1.f" />
+	
+	<action id="default">
+		<frame left="0" top="0" right="15" bottom="15" s_timer="2.f"/>
+	</action>
+	
+	<action id="move">
+		<frame left="0" top="0" right="15" bottom="15" s_timer="2.f"/>
+	</action>
+</sprite>

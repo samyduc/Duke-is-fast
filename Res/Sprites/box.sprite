@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- '''Box Sprite''' -->
+<sprite>
+	<image href="box.jpg" scaling="0.3f" />
+	
+	<action id="default">
+		<frame left="0" top="0" right="300" bottom="300" s_timer="2.f"/>
+	</action>
+	
+	<action id="move">
+		<frame left="0" top="0" right="300" bottom="300" s_timer="2.f"/>
+		<frame left="300" top="0" right="600" bottom="300" s_timer="2.f"/>
+	</action>
+</sprite>
